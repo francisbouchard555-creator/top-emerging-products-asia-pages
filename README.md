@@ -14,3 +14,4 @@ The project analyzes publicly available TikTok videos to highlight **emerging pr
 - This repository contains no source code, only legal documentation for verification.
 
 **Contact:** francisbouchard555@gmail.com
+
