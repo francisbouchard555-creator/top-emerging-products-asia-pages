@@ -2,7 +2,9 @@
 
 This repository hosts the **public legal pages (Terms & Privacy)** for the “Top Emerging Products from Asia” web app.
 
-The project analyzes publicly available TikTok videos to highlight **emerging product trends** and **viral content** from Asian markets — aiming to inspire international audiences while fully respecting TikTok’s Developer Policies.
+## Project Overview
+**Top Produits émergents d’Asie** is a web application that identifies emerging and viral product trends from Asian TikTok markets.  
+It helps researchers, marketers, and entrepreneurs discover innovative products and cultural trends, providing valuable insight into early-stage market movements.
 
 ## Legal Pages
 - **Terms of Service** → https://francisbouchard555-creator.github.io/top-emerging-products-asia-pages/terms.html
