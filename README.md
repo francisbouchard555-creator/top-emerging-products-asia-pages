@@ -12,6 +12,8 @@ The project analyzes publicly available TikTok videos to highlight **emerging pr
 - No personal data is collected, stored, or shared.  
 - All analysis uses public data only, in full compliance with TikTok Developer Policies.  
 - This repository contains no source code, only legal documentation for verification.
+  
+About → https://francisbouchard555-creator.github.io/top-emerging-products-asia-pages/about.html
 
 **Contact:** francisbouchard555@gmail.com
 
