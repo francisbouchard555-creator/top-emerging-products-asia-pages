@@ -1,3 +1,5 @@
+![Top Produits émergents d’Asie](https://francisbouchard555-creator.github.io/top-emerging-products-asia-pages/logo.png)
+
 # Top Produits émergents d’Asie — Legal Pages
 
 This repository hosts the **public legal pages (Terms & Privacy)** for the “Top Emerging Products from Asia” web app.
