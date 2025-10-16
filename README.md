@@ -49,7 +49,6 @@ This project is part of a broader analytical ecosystem designed to help identify
 ## ✉️ Contact
 
 📩 **Email:** francisbouchard555@gmail.com  
-🌐 **Website:** Coming soon  
 
 ---
 
