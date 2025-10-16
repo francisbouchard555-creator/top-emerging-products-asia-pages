@@ -1,4 +1,6 @@
-![Top Produits émergents d’Asie](https://francisbouchard555-creator.github.io/top-emerging-products-asia-pages/logo.png)
+<p align="center">
+  <img src="https://francisbouchard555-creator.github.io/top-emerging-products-asia-pages/logo.png" width="200" alt="Top Produits émergents d’Asie logo">
+</p>
 
 # Top Produits émergents d’Asie — Legal Pages
 
